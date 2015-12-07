@@ -8,6 +8,11 @@
 
 import UIKit
 
+var baseUrl = "http://webapitest.uai.cl/"
+var tokenApp = "1234"
+
+var currentTeacherToken = ""
+
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
